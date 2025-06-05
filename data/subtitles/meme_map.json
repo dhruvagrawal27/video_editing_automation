@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "total_memes": 7,
+    "avg_confidence": 0.857,
+    "generated_timestamp": "2025-06-05 03:40:56"
+  },
+  "broll_mappings": [
+    {
+      "start": 0.34,
+      "end": 5.52,
+      "hinglish": "If your happiness depends on the actions of others, you're at mercy",
+      "broll": {
+        "id": "glass_pouring",
+        "type": "meme",
+        "confidence": 0.85,
+        "reason": "The quote emphasizes self-reliance for happiness and inner peace, implying a sense of fulfillment and satisfaction when one is not dependent on others. The 'glass_pouring' meme represents a moment of satisfaction and completion, aligning with the neutral and introspective tone of the quote.",
+        "max_duration": 5
+      }
+    },
+    {
+      "start": 5.02,
+      "end": 8.58,
+      "hinglish": "others, you're at mercy of things that you can't control. And that's",
+      "broll": {
+        "id": "Bilkul Risk nhi lene ka_Hera Pheri",
+        "type": "meme",
+        "confidence": 0.85,
+        "reason": "The context of being at the mercy of uncontrollable things and the neutral, low-intensity emotion expressed matches well with the cautious and careful attitude depicted in this meme. The essence of accepting a situation and not taking risks aligns with the helplessness and neutrality of the given content.",
+        "max_duration": 5
+      }
+    },
+    {
+      "start": 7.86,
+      "end": 11.18,
+      "hinglish": "can't control. And that's never where I wanna be. So I always",
+      "broll": {
+        "id": "Bilkul Risk nhi lene ka_Hera Pheri",
+        "type": "meme",
+        "confidence": 0.85,
+        "reason": "The speaker expresses a desire to avoid a situation where they 'can't control' things, indicating a preference for caution and stability. This aligns with the meme's theme of avoiding risks and being cautious.",
+        "max_duration": 5
+      }
+    },
+    {
+      "start": 13.34,
+      "end": 16.0,
+      "hinglish": "me and my therapist talk about like my higher goddess, my higher",
+      "broll": {
+        "id": "glass_pouring",
+        "type": "meme",
+        "confidence": 0.85,
+        "reason": "The conversation about one's 'higher goddess' or 'higher self' with a therapist implies a moment of introspection and self-reflection. The neutral emotion and general situation with low intensity match the satisfaction and fulfillment context of the 'glass_pouring' meme, representing a moment of completion in one's thoughts or emotional state.",
+        "max_duration": 5
+      }
+    },
+    {
+      "start": 15.6,
+      "end": 19.04,
+      "hinglish": "higher goddess, my higher self, like I always wanna live there knowing",
+      "broll": {
+        "id": "glass_pouring",
+        "type": "meme",
+        "confidence": 0.85,
+        "reason": "The context of the content seems to be about a person's aspiration to live in a state of higher consciousness or self-awareness. The emotion expressed is neutral and introspective. The 'glass pouring' meme represents a moment of satisfaction or fulfillment, which aligns with the aspirational yet calm tone of the content. The idea of 'living there knowing' suggests a desire for a state of completeness or fulfillment, which the 'glass pouring' meme symbolizes.",
+        "max_duration": 5
+      }
+    },
+    {
+      "start": 17.8,
+      "end": 21.86,
+      "hinglish": "wanna live there knowing that when I'm there, you can't take that",
+      "broll": {
+        "id": "Bilkul Risk nhi lene ka_Hera Pheri",
+        "type": "meme",
+        "confidence": 0.85,
+        "reason": "The context of the content seems to convey a sense of cautiousness or setting boundaries, implying a desire to avoid risk or conflict. The neutral emotion and general situation with low intensity match well with the theme of being cautious and avoiding risks.",
+        "max_duration": 5
+      }
+    },
+    {
+      "start": 21.44,
+      "end": 23.66,
+      "hinglish": "you can't take that away from me. That's mine.",
+      "broll": {
+        "id": "glass_pouring",
+        "type": "meme",
+        "confidence": 0.9,
+        "reason": "The statement 'you can't take that away from me. That's mine' reflects a sense of possession and assertiveness, which aligns with a moment of satisfaction or fulfillment when one's possession or right is acknowledged or protected. The neutral emotion and general situation fit well with the satisfaction of asserting one's ownership.",
+        "max_duration": 5
+      }
+    }
+  ]
+}

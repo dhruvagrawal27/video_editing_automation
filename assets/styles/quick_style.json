@@ -1,0 +1,10 @@
+{
+  "font": "C:/Windows/Fonts/arial.ttf",
+  "font_size": 38,
+  "text_color": "white",
+  "bg_color": "black",
+  "bg_opacity": 0.7,
+  "padding": 8,
+  "position": "bottom",
+  "method": "label"
+}

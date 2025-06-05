@@ -1,0 +1,107 @@
+[
+  {
+    "id": "bhag_milkha_bhag",
+    "type": "meme",
+    "description": "Running scene showing determination and urgency",
+    "tags": ["running", "determination", "urgency", "speed", "chase", "hurry", "fitness"],
+    "context_keywords": ["run", "fast", "speed", "chase", "hurry", "urgent", "quick", "भागना", "तेज", "जल्दी", "दौड़ना", "race", "fitness", "exercise", "sprint"]
+  },
+  {
+    "id": "Bilkul Risk nhi lene ka_Hera Pheri",
+    "type": "meme",
+    "description": "Comedy scene about avoiding risks and being cautious",
+    "tags": ["comedy", "risk", "safety", "caution", "fear", "careful", "avoid"],
+    "context_keywords": ["risk", "danger", "safe", "careful", "caution", "problem", "trouble", "worry", "fear", "scared", "avoid", "prevention", "risky", "खतरा", "डर", "सावधान"]
+  },
+  {
+    "id": "Daru nhi re baba dawai hai_Hera Pheri",
+    "type": "meme", 
+    "description": "Clarification scene for misunderstandings about medicine vs alcohol",
+    "tags": ["medicine", "health", "clarification", "misunderstanding", "confusion", "explanation"],
+    "context_keywords": ["medicine", "health", "doctor", "treatment", "cure", "healing", "sick", "illness", "hospital", "दवाई", "इलाज", "बीमारी", "स्वास्थ्य", "tablet", "syrup", "medical"]
+  },
+  {
+    "id": "glass_pouring",
+    "type": "meme",
+    "description": "Satisfaction moment of completion or fulfillment",
+    "tags": ["satisfaction", "completion", "fulfillment", "refreshing", "thirst", "relief"],
+    "context_keywords": ["satisfy", "complete", "finish", "done", "fulfill", "refresh", "thirst", "relief", "accomplished", "achieved", "संतुष्ट", "पूरा", "खत्म", "प्यास", "राहत"]
+  },
+  {
+    "id": "Golmaal hai bhai sab Golmaal hai_Hera pheri",
+    "type": "meme",
+    "description": "Everything is chaotic and messy situation",
+    "tags": ["chaos", "confusion", "mess", "problem", "disorder", "complicated", "wrong"],
+    "context_keywords": ["chaos", "mess", "confusion", "problem", "trouble", "disorder", "complicated", "mixed", "wrong", "mistake", "error", "गड़बड़", "समस्या", "उलझन", "परेशानी", "गलत"]
+  },
+  {
+    "id": "Happy Emotional scene_three idiots",
+    "type": "meme",
+    "description": "Pure joy and celebration moment",
+    "tags": ["happiness", "joy", "celebration", "success", "achievement", "victory", "excitement"],
+    "context_keywords": ["happy", "joy", "celebrate", "success", "achievement", "win", "victory", "excited", "good news", "positive", "smile", "laugh", "party", "खुशी", "जश्न", "सफलता", "जीत"]
+  },
+  {
+    "id": "Khopdi Tod Saale ka_Hera Pheri",
+    "type": "meme",
+    "description": "Extreme frustration and anger expression",
+    "tags": ["anger", "frustration", "aggressive", "mad", "irritated", "threat", "violence"],
+    "context_keywords": ["angry", "frustration", "mad", "annoyed", "irritated", "rage", "aggressive", "furious", "गुस्सा", "क्रोध", "परेशान", "नाराज", "चिढ़", "बुरा", "गलत"]
+  },
+  {
+    "id": "Paisa hi paisa hoga_hera pheri",
+    "type": "meme",
+    "description": "Money making excitement and wealth dreams",
+    "tags": ["money", "wealth", "profit", "business", "rich", "earning", "income"],
+    "context_keywords": ["money", "cash", "profit", "business", "rich", "wealth", "earn", "income", "salary", "expensive", "cost", "price", "पैसा", "कमाई", "अमीर", "धन", "व्यापार", "लाभ"]
+  },
+  {
+    "id": "ShahRukh Khan walking style",
+    "type": "meme",
+    "description": "Confident swagger and cool attitude display",
+    "tags": ["confidence", "style", "swagger", "cool", "attitude", "personality", "charisma"],
+    "context_keywords": ["confidence", "style", "cool", "attitude", "swagger", "personality", "charisma", "impressive", "hero", "star", "स्टाइल", "रवैया", "आत्मविश्वास", "कूल", "हीरो"]
+  },
+  {
+    "id": "Ye Baburao ka Style hai_Hera Pheri",
+    "type": "meme",
+    "description": "Unique method or special way of doing things",
+    "tags": ["style", "method", "unique", "technique", "approach", "way", "special"],
+    "context_keywords": ["style", "method", "way", "technique", "approach", "unique", "different", "special", "particular", "specific", "custom", "तरीका", "स्टाइल", "खास", "अलग", "विशेष"]
+  },
+  {
+    "id": "Ye Gadbad hai baba_Hera Pheri",
+    "type": "meme",
+    "description": "Something is definitely wrong or problematic",
+    "tags": ["problem", "wrong", "issue", "trouble", "error", "fault", "broken"],
+    "context_keywords": ["problem", "wrong", "issue", "trouble", "bad", "error", "mistake", "fault", "broken", "damage", "गड़बड़","damage", "fix", "repair"]
+  },
+  {
+    "id": "Actress doing basic workout",
+    "type": "meme",
+    "description": "Female fitness routine showing basic exercises and healthy lifestyle",
+    "tags": ["fitness", "workout", "exercise", "health", "gym", "training", "female", "lifestyle"],
+    "context_keywords": ["fitness", "workout", "exercise", "gym", "health", "training", "body", "strength", "muscle", "cardio", "diet", "lifestyle", "active"]
+  },
+  {
+    "id": "Actress doing pushup workout",
+    "type": "meme", 
+    "description": "Intense pushup workout showing strength and determination",
+    "tags": ["pushup", "strength", "workout", "exercise", "fitness", "training", "determination", "gym"],
+    "context_keywords": ["pushup", "strength", "strong", "power", "exercise", "workout", "fitness", "training", "gym", "muscle", "body", "determination"]
+  },
+  {
+    "id": "Are tu Ja rhe_Hera pheri",
+    "type": "meme",
+    "description": "Hera Pheri scene about someone leaving or going away",
+    "tags": ["leaving", "going", "departure", "hera pheri", "comedy", "goodbye", "bollywood"],
+    "context_keywords": ["leave", "go", "departure", "goodbye", "bye", "exit", "away", "travel", "journey", "move", "shift", "change"]
+  },
+  {
+    "id": "girl_workout",
+    "type": "meme",
+    "description": "General female workout scenes in gym environment",
+    "tags": ["female", "workout", "gym", "fitness", "exercise", "training", "health", "lifestyle"],
+    "context_keywords": ["female", "girl", "woman", "workout", "exercise", "fitness", "gym", "health", "training", "body", "strength", "active", "lifestyle"]
+  }
+]

@@ -1,0 +1,7 @@
+faster-whisper
+groq
+python-dotenv
+moviepy
+textwrap
+pillow
+streamlit
