@@ -1,4 +1,5 @@
-# Video Editing Automation
-
-This project automates video editing for Hindi content by handling transcription, translation, subtitle rendering, b-roll mapping, and export workflows.
+# AI Agent-Powered Video Editing Automation System 
+ 
+Automates subtitle styling, b-roll/meme overlays, and intelligent effects using context-aware AI agents.  
+Optimized for Hindi-to-English content pipelines with smart overlay decisions
 
